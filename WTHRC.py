@@ -8,10 +8,15 @@ my_genderV = "male"
 def result_ratio(height, weight, gender):
     if gender == "Female":
         if height <= 46:
+            if weight >= 63 and weight <= 77:
         if height == 47:
+            if weight >= 68 and weight <= 83:
         if height == 48:
+            if weight >= 72 and weight <= 88:
         if height == 49:
+            if weight >= 77 and weight <= 94:
         if height == 50:
+            if weight >= 81 and weight <= 99:
         if height == 51:
         if height == 52:
         if height == 53:
